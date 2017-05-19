@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\SharpDevelop Projects\TelefonBook\TelefonBook\obj\Debug\TelefonBook.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SharpDevelop Projects\TelefonBook\TelefonBook\bin\Debug\TelefonBook.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\TelefonBook\TelefonBook\bin\Debug\TelefonBook.pdb
+C:\Users\Admin\Documents\SharpDevelop Projects\TelefonBook\TelefonBook\obj\Debug\TelefonBook.exe
+C:\Users\Admin\Documents\SharpDevelop Projects\TelefonBook\TelefonBook\obj\Debug\TelefonBook.pdb
