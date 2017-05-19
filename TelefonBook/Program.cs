@@ -10,7 +10,7 @@ using System;
 
 namespace TelefonBook
 {
-	public class phoneBook
+	public class phoneBook // создаём класс телефонная книга
 	{
 		string name;
 		public string Name { get; set; }
