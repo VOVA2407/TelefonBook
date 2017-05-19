@@ -8,6 +8,7 @@ using System.Runtime.InteropServices;
 // просто коммент для проверки
 //второй коммент для проверки
 //третий коммент
+//четвертый коммент
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
